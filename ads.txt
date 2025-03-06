@@ -1,0 +1,4 @@
+platformance.io, 0041, DIRECT
+adform.com, 3228, DIRECT, 9f5210a2f0999e32
+appnexus.com, 16624 , DIRECT, f5ab79cb980f11d1
+pubmatic.com, 165458, DIRECT, 5d62403b186f2ace
